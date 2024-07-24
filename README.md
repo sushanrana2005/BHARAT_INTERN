@@ -1,1 +1,1 @@
-these above app project are maded for internship of "BHARAT INTERN" BY SUSHANT RANA. WE welcome anyone if he/she want to make change in them. i CAN ALSO PROVIDE A WEBSITE PREVIEW OR CODE of THESE APPS IN MY REPOSITATRY. IF ANYONE NEEDE TEXT ME
+These projects were created during my internship at "BHARAT INTERN" under the guidance of Sushant Rana. We welcome anyone who wishes to contribute or make improvements. I can also provide website previews or access to the code in my repository. If you're interested, please feel free to contact me.
